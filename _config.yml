@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyuan GUO"
   avatar           : "images/guosiyuan11.png"
-  bio              : "Lorem ipsum College"
-  location         : "Shanghai, China"
+  bio              : "Tongji University & City Univeristy of Hong Kong"
+  location         : "Shanghai, China" 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3NLf5L4AAAAJ&hl=zh-CN"
-  email            : "Lorem@ipsum.com"
+  email            : "siyuanguo7-c@my.cityu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
