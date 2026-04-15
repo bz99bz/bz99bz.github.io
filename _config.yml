@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyuan GUO"
-#description              : "Ph.D. candidate in Computer Science and Technology at Tongji University, working on bioinformatics, molecular generation, and AI-driven drug discovery. "
+description              : "Ph.D. candidate in Computer Science and Technology at Tongji University, working on bioinformatics, molecular generation, and AI-driven drug discovery. "
 repository               : "bz99bz/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
