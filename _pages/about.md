@@ -32,10 +32,9 @@ You can find my profiles here: [**Google Scholar**](https://scholar.google.com/c
 - *2025*: Our work **“Game Theoretical AI for Precision Medicine”** was published at **Transactions on Artificial Intelligence**.
 - *Recent*: Working on **AI-driven drug design and discovery**, including large-scale multimodal molecular datasets and diffusion-based molecular generation.
 
-# 📝 Publications 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/GSIF.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fusing Geometric and Scene Information for Cross-View Geo-Localization](https://doi.org/10.1145/3511808.3557079)
@@ -49,10 +48,10 @@ You can find my profiles here: [**Google Scholar**](https://scholar.google.com/c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBCB</div><img src='images/M3.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[M3-20M: A Large-Scale Multi-Modal Molecule Dataset for AI-driven Drug Design and Discovery](https://github.com/bz99bz/M-3)
+[M3-20M: A Large-Scale Multi-Modal Molecule Dataset for AI-driven Drug Design and Discovery](https://doi.org/10.1142/s0219720025500064)
 
 **Siyuan Guo**, Lexuan Wang, Changjin Wang, Jinxian Wang, Han Peng, Huayang Shi, Wengen Li, Jihong Guan*, Shuigeng Zhou*
 
@@ -64,10 +63,10 @@ You can find my profiles here: [**Google Scholar**](https://scholar.google.com/c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCBB</div><img src='images/D2L-OMP.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties](#)
+[Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties](https://doi.org/10.1109/TCBB.2024.3434461)
 
 **Siyuan Guo**, Jihong Guan*, Shuigeng Zhou*
 
