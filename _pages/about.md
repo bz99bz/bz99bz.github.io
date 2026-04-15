@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Siyuan Guo**, a **Ph.D. candidate in Computer Science and Technology at Tongji University**, Shanghai, China. My research mainly focuses on **bioinformatics**, **AI-driven drug design and discovery**, **molecular generation**, and **multimodal molecular learning**. I am also interested in applying machine learning and deep learning methods to challenging problems in computational biology and data mining.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Currently, I lead the **Bioinformatics Research Team** at the **ADMIS Lab of Tongji University** under the supervision of **Prof. Jihong Guan** and **Prof. Shuigeng Zhou**. My recent work centers on large-scale molecular datasets, diffusion-based molecular generation, and molecular property prediction.
 
+You can find my profiles here: [**Google Scholar**](https://scholar.google.com/citations?user=3NLf5L4AAAAJ&hl=zh-CN) | [**GitHub**](https://github.com/bz99bz)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06 - Present*: Leading the Bioinformatics Research Team at the ADMIS Lab of Tongji University.
+- *2022*: Our work **“Fusing Geometric and Scene Information for Cross-View Geo-Localization”** was published at **CIKM 2022**.
+- *Recent*: Working on **AI-driven drug design and discovery**, including large-scale multimodal molecular datasets and diffusion-based molecular generation.
 
 # 📝 Publications 
 
