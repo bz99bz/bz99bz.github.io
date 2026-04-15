@@ -111,4 +111,6 @@ You can find my profiles here: [**Google Scholar**](https://scholar.google.com/c
 # 💻 Internships
 - *2019.12 - 2020.06*, Microsoft, China.
 
-# 🏃‍♀️ Hobbies:** Fitness🏋️‍♂️ (30kg bench press, 45kg squat, 55kg deadlift), Table tennis🏓
+# 🏃‍♀️ Hobbies:
+-**Fitness**🏋️‍♂️ (30kg bench press, 45kg squat, 55kg deadlift)
+-**Table tennis**🏓
