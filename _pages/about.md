@@ -19,7 +19,7 @@ redirect_from:
 
 I am **Siyuan Guo**, a **Ph.D. candidate in Computer Science and Technology at Tongji University**, Shanghai, China. My research mainly focuses on **Bioinformatics**, **Precision Medicine**, **Generative Model**, and **Multimodal Molecular Learning**. I am also interested in applying machine learning and deep learning methods to challenging problems in computational biology and data mining.
 
-Currently, I lead the **Bioinformatics Research Team** at the **ADMIS Lab of Tongji University** under the supervision of **Prof. Jihong Guan**. My recent work centers on large-scale molecular datasets, diffusion-based molecular generation, and molecular property prediction.
+Currently, I lead the **Bioinformatics Research Team** at the **ADMIS Lab of Tongji University** under the supervision of **Prof. Jihong Guan** and **Prof. Shuigeng Zhou**. I am also a **joint Ph.D. student at City University of Hong Kong and Tongji University**, where I am supervised by **Prof. Dapeng Wu (IEEE Fellow)** at **City University of Hong Kong**. My recent work centers on large-scale molecular datasets, diffusion-based molecular generation, and molecular property prediction.
 
 You can find my profiles here: [**Google Scholar**](https://scholar.google.com/citations?user=3NLf5L4AAAAJ&hl=zh-CN) | [**GitHub**](https://github.com/bz99bz)
 
@@ -37,7 +37,7 @@ You can find my profiles here: [**Google Scholar**](https://scholar.google.com/c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/GSIF.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fusing Geometric and Scene Information for Cross-View Geo-Localization](https://doi.org/10.1145/3511808.3557079)
+[Fusing Geometric and Scene Information for Cross-View Geo-Localization](https://doi.org/10.1145/3511808.3557633)
 
 **Siyuan Guo**, Tianying Liu, Wengen Li*, Jihong Guan, Shuigeng Zhou
 
