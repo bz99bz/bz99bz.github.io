@@ -86,7 +86,7 @@ You can find my profiles here: [**Google Scholar**](https://scholar.google.com/c
 - **First Prize** in the Tongji University Mathematics Modeling Competition  
 - **Second Prize** in the National Chemistry Contest of China (Provincial Level) for High School Students  
 
-# 📖 Education
+# 📖 Educations
 - *2021 - Present*, **Ph.D. candidate in Computer Science and Technology**, Tongji University, Shanghai, China  
   - Average Score: **91.76/100**
 - *2017 - 2021*, **Bachelor’s Degree in Computer Science and Technology**, Tongji University, Shanghai, China  
@@ -112,5 +112,5 @@ You can find my profiles here: [**Google Scholar**](https://scholar.google.com/c
 - *2019.12 - 2020.06*, Microsoft, China.
 
 # 🏃‍♀️ Hobbies:
--**Fitness**🏋️‍♂️ (30kg bench press, 45kg squat, 55kg deadlift)
+-**Fitness**🏋️‍♂️ (35kg bench press, 45kg squat, 55kg deadlift)
 -**Table tennis**🏓
