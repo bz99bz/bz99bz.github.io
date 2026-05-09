@@ -112,6 +112,6 @@ You can find my profiles here: [**Google Scholar**](https://scholar.google.com/c
 - *2019.12 - 2020.06*, Microsoft, China.
 
 # 🏃‍♀️ Hobbies:
--**Fitness**🏋️‍♂️ (35kg bench press, 45kg squat, 55kg deadlift)
+-**Fitness**🏋️‍♂️ (35kg bench press, 45kg squat, 60kg deadlift)
 
 -**Table tennis**🏓
